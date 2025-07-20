@@ -60,5 +60,3 @@ Para dúvidas, sugestões ou contribuições, entre em contato com os autores ou
 
 Projeto desenvolvido para a disciplina de Inteligência Computacional Aplicada à Saúde (UFES, 2025).
 
-
-...existing code...
